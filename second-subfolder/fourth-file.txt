@@ -1,1 +1,5 @@
 Fourth file text
+
+
+This file was modify in new-feature branch
+
